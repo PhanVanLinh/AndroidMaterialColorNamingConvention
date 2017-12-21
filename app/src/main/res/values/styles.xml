@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!--   your app branding color for the app bar -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!--  theme UI controls like checkboxes and line color when enable in edit text, float button color -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textColor">#00f</item>
+
+        <!--<item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>-->
+        <!--<item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>-->
+        <!--<item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>-->
+        <!--<item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>-->
+        <!--<item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>-->
+        <!--<item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>-->
+        <!--<item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>-->
+        <!--<item name="android:textColorHint">@color/abc_hint_foreground_material_dark</item>-->
+        <!--<item name="android:textColorHintInverse">@color/abc_hint_foreground_material_light</item>-->
+        <!--<item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>-->
+
+
+    </style>
+
+    <style name="A">
+        <!-- affect Button, EditText text color -->
+        <item name="android:textColorPrimary">#f00</item>
+
+        <!-- none -->
+        <item name="android:textColorPrimaryInverse">#f00</item>
+
+        <!-- affect CheckBox text, Radio Button text -->
+        <item name="android:textColorPrimaryDisableOnly">#f00</item>
+
+        <!-- affect EditText line, Radio button, CheckBox border color lor -->
+        <item name="android:textColorSecondary">#f00</item>
+
+        <!-- none -->
+        <item name="android:textColorSecondaryInverse">#f00</item>
+
+        <!-- affect TextView color -->
+        <item name="android:textColorTertiary">#f00</item>
+
+        <!-- none -->
+        <item name="android:textColorTertiaryInverse">#f00</item>
+
+        <!-- edit text hint -->
+        <item name="android:textColorHint">#f00</item>
+
+        <!-- none -->
+        <item name="android:textColorHintInverse">#f00</item>
+
+        <!-- none -->
+        <item name="android:textColorHighlight">#f00</item>
+    </style>
+
+</resources>
